@@ -1,0 +1,165 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "title": "寄生上流",
+      "englishName": "parasite",
+      "director": "奉俊昊",
+      "award": [
+        "最佳影片",
+        "最佳導演",
+        "最佳原創劇本",
+        "最佳國際電影"
+      ],
+      "runtime": "132",
+      "rating": "輔12級"
+    },
+    {
+      "id": 2,
+      "title": "小丑",
+      "englishName": "joker",
+      "director": "Todd Phillips",
+      "award": [
+        "最佳男主角",
+        "最佳原創配樂"
+      ],
+      "runtime": "122",
+      "rating": "輔15級"
+    },
+    {
+      "id": 3,
+      "title": "茱蒂",
+      "englishName": "judy",
+      "director": "Rupert Goold",
+      "award": "最佳女主角",
+      "runtime": "118",
+      "rating": "保護級"
+    },
+    {
+      "id": 4,
+      "title": "從前，有個好萊塢",
+      "englishName": "Once Upon a Time in Hollywood",
+      "director": "Quentin Tarantino",
+      "award": [
+        "最佳男配角",
+        "最佳美術設計"
+      ],
+      "runtime": "160",
+      "rating": "輔12級"
+    },
+    {
+      "id": 5,
+      "title": "婚姻故事",
+      "englishName": "Marriage Story",
+      "director": "Noah Baumbach",
+      "award": "最佳女配角",
+      "runtime": "137",
+      "rating": "輔15級"
+    },
+    {
+      "id": 6,
+      "title": "兔嘲男孩",
+      "englishName": "Jojo Rabbit",
+      "director": "Taika Waititi",
+      "award": "最佳改編劇本",
+      "runtime": "108",
+      "rating": "輔12級"
+    },
+    {
+      "id": 7,
+      "title": "１９１７",
+      "englishName": "１９１７",
+      "director": "‎Sam Mendes",
+      "award": [
+        "最佳混音",
+        "最佳視覺特效"
+      ],
+      "runtime": "119",
+      "rating": "保護級"
+    },
+    {
+      "id": 8,
+      "title": "美國工廠",
+      "englishName": "American Factory",
+      "director": "Steven Bognar & Julia Reichert",
+      "award": "最佳記錄長片",
+      "runtime": "115",
+      "rating": "紀錄片"
+    },
+    {
+      "id": 9,
+      "title": "重磅腥聞",
+      "englishName": "boomshell",
+      "director": "Jay Roach",
+      "award": "最佳妝髮設計",
+      "runtime": "109",
+      "rating": "輔12級"
+    },
+    {
+      "id": 10,
+      "title": "賽道狂人",
+      "englishName": "Ford v.s. Ferrari",
+      "director": "James Mangold",
+      "award": [
+        "最佳剪輯",
+        "最佳音效剪輯"
+      ],
+      "runtime": "152",
+      "rating": "普遍級"
+    },
+    {
+      "id": 11,
+      "title": "頭髮的愛",
+      "englishName": "hair love",
+      "director": "Matthew A.Cherry",
+      "award": "最佳動畫短片",
+      "runtime": "7",
+      "rating": "普遍級"
+    },
+    {
+      "id": 12,
+      "title": "戰區學溜冰",
+      "englishName": "Learning to Skateboard in a Warzone(If You're a Girl)",
+      "director": "Carol Dysinger",
+      "award": "最佳紀錄短片",
+      "runtime": "39",
+      "rating": "紀錄片"
+    },
+    {
+      "id": 13,
+      "title": "她們",
+      "englishName": "Lillte Women",
+      "director": "Greta Gerwig",
+      "award": "最佳服裝設計",
+      "runtime": "135",
+      "rating": "普遍級"
+    },
+    {
+      "id": 14,
+      "title": "鄰居的窗戶",
+      "englishName": "The Neighbors' Window",
+      "director": "Marshall Curry",
+      "award": "最佳實境短片",
+      "runtime": "20",
+      "rating": "紀錄片"
+    },
+    {
+      "id": 15,
+      "title": "火箭人",
+      "englishName": "rocketman",
+      "director": "Dexter Fletcher",
+      "award": "最佳原創歌曲",
+      "runtime": "122",
+      "rating": "輔12級"
+    },
+    {
+      "id": 16,
+      "title": "玩具總動員4",
+      "englishName": "toy story 4",
+      "director": "Joshua Cooley",
+      "award": "最佳動畫長片",
+      "runtime": "100",
+      "rating": "普遍級"
+    }
+  ]
+}
